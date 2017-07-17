@@ -1,5 +1,12 @@
 .hey{
 	color:red;
+	border:3px solid;
+	width:30px;
+	margin:0 auto;
+	margin-bottom: 10px;
+	padding: 25px;
+	display: flex;
+	flex-direction: row;
 }
 
 .hey p{
@@ -9,5 +16,10 @@
 	
 	height: 100%;
 	width: 100%;
+
+}
+.nav{
+
+width:50%;
 
 }
